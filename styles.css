@@ -7,3 +7,12 @@
     padding: 10px;
     text-align: center;
   }
+
+  .btn-bd-primarya {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    
+  }
